@@ -21,4 +21,4 @@ $lang['email_exit_status'] = "Status do código de saída: %s";
 
 
 /* End of file email_lang.php */
-/* Location: ./system/language/portuguese/email_lang.php */
+/* Location: ./application/language/portuguese-br/email_lang.php */
